@@ -1,4 +1,5 @@
-# Amazon-Reviews
+# Amazon-Reviews- Website Link  https://amazonreviewsfinalproject.com/
+
 LifeStyles Healthcare would like to understand their products and customers better by analyzing product reviews from their branded pages on Amazon.com. The team has decided to conduct a sentiment analysis, so that the organization can gain insights outside of star ratings. The sentiment analysis can also help the team predict a star rating based on the reviews. By analyzing customer reviews the team also hopes to address customer issues and identify additional key words to use in their marketing campaigns.
 
 Once the data was cleaned and organized the team decided to create word clouds to visualize the top used words for both positive & negative reviews.
